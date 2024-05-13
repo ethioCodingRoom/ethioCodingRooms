@@ -1,28 +1,30 @@
-# aesd-assignments
-This repo contains public starter source code, scripts, and documentation for Advanced Embedded Software Development (ECEN-5713) and Advanced Embedded Linux Development assignments University of Colorado, Boulder.
+## Hi! I'm **Asres Gamu Yelia**
 
-## Setting Up Git
+I'm an enthusiastic computer science student at the University of the People, residing in Ethiopia. I'm passionate about exploring the frontiers of new and emerging technologies.
 
-Use the instructions at [Setup Git](https://help.github.com/en/articles/set-up-git) to perform initial git setup steps. For AESD you will want to perform these steps inside your Linux host virtual or physical machine, since this is where you will be doing your development work.
+**Exploring the World of Code**
 
-## Setting up SSH keys
+- Programming Languages: Python, Java, SQL, HTML, CSS, JavaScript
+- Software Development Methodologies: (Indicate methodologies you've learned)
+- Cybersecurity: Interested in cybersecurity practices and methodologies.
+- Data Science: Exploring data analysis, machine learning, and AI applications.
+- AI: Fascinated by artificial intelligence and its impact on various industries.
 
-See instructions in [Setting-up-SSH-Access-To-your-Repo](https://github.com/cu-ecen-aeld/aesd-assignments/wiki/Setting-up-SSH-Access-To-your-Repo) for details.
+**The Thrill of the New**
 
-## Specific Assignment Instructions
+I'm always eager to delve into the latest advancements in technology. Some areas that particularly excite me include:
 
-Some assignments require further setup to pull in example code or make other changes to your repository before starting.  In this case, see the github classroom assignment start instructions linked from the assignment document for details about how to use this repository.
+- Cybersecurity: Enhancing security measures and defending against cyber threats.
+- Data Science: Harnessing data for insights and predictive analytics.
+- AI: Leveraging AI for automation, decision-making, and innovative solutions.
 
-## Testing
+**Let's Connect!**
 
-The basis of the automated test implementation for this repository comes from [https://github.com/cu-ecen-aeld/assignment-autotest/](https://github.com/cu-ecen-aeld/assignment-autotest/)
+I'm always open to connecting with fellow developers and learning from their experiences. Feel free to reach out:
 
-The assignment-autotest directory contains scripts useful for automated testing  Use
-```
-git submodule update --init --recursive
-```
-to synchronize after cloning and before starting each assignment, as discussed in the assignment instructions.
+- Email: asresgamu@gmail.com
+- LinkedIn: [linkedin.com/in/asresgamu](https://www.linkedin.com/in/asresgamu)
+- Twitter: [@asres_yelia](https://twitter.com/asres_yelia)
+- TikTok: [@ethio.coding.rooms](https://www.tiktok.com/@ethio.coding.rooms)
 
-As a part of the assignment instructions, you will setup your assignment repo to perform automated testing using github actions.  See [this page](https://github.com/cu-ecen-aeld/aesd-assignments/wiki/Setting-up-Github-Actions) for details.
 
-Note that the unit tests will fail on this repository, since assignments are not yet implemented.  That's your job :) 
