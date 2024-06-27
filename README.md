@@ -26,5 +26,8 @@ I'm always open to connecting with fellow developers and learning from their exp
 - LinkedIn: [linkedin.com/in/asresgamu](https://www.linkedin.com/in/asresgamu)
 - Twitter: [@asres_yelia](https://twitter.com/asres_yelia)
 - TikTok: [@ethio.coding.rooms](https://www.tiktok.com/@ethio.coding.rooms)
+- YouTube: [@ethioCodingRooms](https://www.youtube.com/@ethioCodingRooms)
+
+  ## Looking forward to connecting and collaborating with you!
 
 
