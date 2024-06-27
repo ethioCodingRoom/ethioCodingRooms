@@ -4,8 +4,6 @@ I'm an enthusiastic computer science student at the University of the People, re
 **Exploring the World of Code**
 
 - Programming Languages: Python, Java, SQL, HTML, CSS, JavaScript
-- Software Development Methodologies: (Indicate methodologies you've learned)
-- Cybersecurity: Interested in cybersecurity practices and methodologies.
 - Data Science: Exploring data analysis, machine learning, and AI applications.
 - AI: Fascinated by artificial intelligence and its impact on various industries.
 
@@ -13,7 +11,6 @@ I'm an enthusiastic computer science student at the University of the People, re
 
 I'm always eager to delve into the latest advancements in technology. Some areas that particularly excite me include:
 
-- Cybersecurity: Enhancing security measures and defending against cyber threats.
 - Data Science: Harnessing data for insights and predictive analytics.
 - AI: Leveraging AI for automation, decision-making, and innovative solutions.
 
