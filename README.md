@@ -1,4 +1,4 @@
-## Hi! I'm **Asres Gamu Yelia**
+# Hi! I'm **Asres Gamu Yelia** 🇪🇹
 
 I'm an enthusiastic computer science student at the University of the People, residing in Ethiopia. I'm passionate about exploring the frontiers of new and emerging technologies.
 
