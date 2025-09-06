@@ -19,7 +19,7 @@ I'm always eager to delve into the latest advancements in technology. Some areas
 I'm always open to connecting with fellow developers and learning from their experiences. Feel free to reach out:
 
 - Email: asresgamu@gmail.com
-- LinkedIn: [linkedin.com/in/asresgamu](https://www.linkedin.com/in/ethiocodingroom)
+- LinkedIn: [linkedin.com/in/ethiocodingroom](https://www.linkedin.com/in/ethiocodingroom)
 - Twitter: [@asres_yelia](https://twitter.com/ethioCodingRoom))
 - TikTok: [@ethio.coding.rooms](https://www.tiktok.com/@ethio.coding.room)
 - YouTube: [@ethioCodingRooms](https://www.youtube.com/@ethioCodingRoom)
